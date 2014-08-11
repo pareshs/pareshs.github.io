@@ -1,0 +1,121 @@
+PARESH SHRESTHA 
+==============================
+
+http://www.pareshs.com 
+paress@gmail.com
+718-666-9524
+Queens NY
+
+==============================
+
+
+Experience
+==============================
+Front End Web Developer
+Distance Education Co., http://www.decnyc.com/ New York NY
+March 2012 - Present
+------------------------------
+Worked as a frontend web developer to create: 
+- Custom Learning Management System (LMS)	
+- Student Photo Submission Project website
+- Complete redesign of corporate websites	
+- Many landing pages and html email templates
+
+Used following technologies and techniques:
+- Hand coding HTML(5)
+--- Utilized HTML5 pushState, replaceState, historyState for back button 
+				
+- Hand Coding CSS(3)
+--- Used media query for Responsive Web Design
+--- Utilized fluid layout/mobile first approach for scalable UI 
+--- Used Don't Repeat Yourself (DRY) approach for efficient and scalable style sheet
+--- Used Bootstrap and Foundation framework for rapid web design and consistency	
+
+- Javascript/jQuery: 
+--- jQuery UI Sortable menu				
+--- Update input fields on the fly utilizing AJAX
+--- Worked with and modified CKEditor(WYSIWYG), CKFinder to add new features in LMS
+--- Ajaxified multi-step enrollment form utilizing JSON data.
+--- Utilized Image magnification plugin in Photo Submission Project
+--- Used lots of other 3rd party plugins like Bootstap JS, Flexslider, Colorbox etc.
+--- Form Validation
+- Utilized Modernizr's strength to work with HTML5 and CSS3 and gracefully degrading to non supporting browsers.  
+
+- Worked on wire framing, rapid prototyping using Photoshop
+- sliced psd files to create pixel perfect website
+- Cross-browser compatibility in all modern browser and going back up to IE7
+- Responsive Design
+- Progressive Enhancement and Graceful Degradation where tried to make all website features work even with Javascript off in clients machine.   
+
+Front End Web Developer
+Jet Set Vacations, http://www.jetsetvacations.com/ Long Island NY
+April 2011 - March 2012
+------------------------------
+Worked as a Web Developer, Graphic Designer and Multimedia Artist to update and maintain corporate website using HTML, CSS, PHP, jQuery, Photoshop.
+Wire-framing, creating landing pages, graphic art for website and advertisement, video editing, custom page integration for social media and search engine optimization were some key elements.
+
+Front End Web Developer
+Examville, New York NY
+http://www.examville.com
+May 2010 - April 2011
+------------------------------
+Worked as a Frontend Web Developer to maintain the corporate website using XHTML, CSS, jQuery. Create and maintain landing pages, custom graphics for advertisement, integrating 3rd party software and organic search engine optimization were crucial part of daily work.
+
+Web Developer/Graphic Designer
+Freelace/ Contract
+Jan 2007 - Present
+------------------------------
+Worked as a freelance web developer/ graphic designer for corporate, non-profit and small/medium sized businesses to create and maintain their websites. Also, perform full spectrum of web-related tasks, including wire-framing, rapid prototyping, design and layout, graphics creation and optimization, server-side programming using PHP to manipulate CMS like Wordpress, MySQL databases, Javascript (jQuery), standards compliant HTML(5), CSS(3), Cross Browser testing, Responsive Design, hosting, security, traffic generation with Organic SEO and ongoing updates.
+Here are some of my recent freelance works: 
+http://artistsupport.mtv.com/home 
+http://acanarytorsi.org/ 
+http://www.glassembassy.com/ 
+http://www.bck.com/ 
+http://www.apitherapy.org/
+
+Web Designer/ Layout Designer
+Nepal Info Park, http://nepalinfopark.com/ Kathmandu Nepal
+Jan 2004 - Jan 2006
+------------------------------
+Worked as a layout designer for a fortnightly tabloid. Worked closely with team members to design, market and strategize company's goal. Create and maintain corporate website.
+
+
+Computer Skills
+==============================
+
+Technologies
+------------------------------
+- Hancoding HTML(5)
+- Hancoding CSS(3)
+- SCSS, LESS CSS 
+- JavaScript
+- jQuery
+- Modernizr
+- Bootstrap Framework
+- Foundation Framework
+- Responsive Web Design
+- Cross browser compatibility
+- HTML e-mail template           
+- Good understanding of Organic SEO (Search Engine Optimization) 
+- Good understanding of PHP and SQL for CMS best practices integration and database manipulation
+- Progressive Enhancement
+- Graceful Degradation
+
+Applications
+------------------------------
+- Sublime Text 2
+- Dreamweaver
+- Photoshop/Fireworks
+- Illustrator
+- Wordpress
+- Shopify
+- SVN	          
+- Axure
+
+Education
+==============================
+2006 - 2009 Minnesota State University Moorhead (MSUM), Moorhead, MN
+Bachelor of Science in Graphic Communication, emphasis in Multimedia
+
+2001 - 2005 Nobel College, Kathmandu, Nepal
+Bachelors in Computer Information Systems
